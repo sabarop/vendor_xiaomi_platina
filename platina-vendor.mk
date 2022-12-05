@@ -331,7 +331,6 @@ vendor/xiaomi/platina/proprietary/vendor/etc/init/vendor.qti.hardware.qseecom@1.
     vendor/xiaomi/platina/proprietary/vendor/lib/libacdbrtac.so:$(TARGET_COPY_OUT_VENDOR)/lib/libacdbrtac.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libactuator_platina_dw9714_ofilm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_platina_dw9714_ofilm.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libactuator_platina_dw9714_sunny.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_platina_dw9714_sunny.so \
-    vendor/xiaomi/platina/proprietary/vendor/lib/liba2dpoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib/liba2dpoffload.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libadiertac.so:$(TARGET_COPY_OUT_VENDOR)/lib/libadiertac.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libadm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libadm.so \
     vendor/xiaomi/platina/proprietary/vendor/lib/libadpcmdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libadpcmdec.so \
@@ -1077,7 +1076,6 @@ vendor/xiaomi/platina/proprietary/vendor/etc/init/vendor.qti.hardware.qseecom@1.
     vendor/xiaomi/platina/proprietary/vendor/lib64/libgnsspps.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgnsspps.so \
     vendor/xiaomi/platina/proprietary/vendor/lib64/libgpudataproducer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgpudataproducer.so \
     vendor/xiaomi/platina/proprietary/vendor/lib64/hw/audio.primary.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio.primary.sdm660.so \
-    vendor/xiaomi/platina/proprietary/vendor/lib64/liba2dpoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liba2dpoffload.so \
     vendor/xiaomi/platina/proprietary/vendor/lib64/libaudio_log_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudio_log_utils.so \
     vendor/xiaomi/platina/proprietary/vendor/lib64/libaudioroute_ext.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudioroute_ext.so \
     vendor/xiaomi/platina/proprietary/vendor/lib64/libgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgsl.so \
